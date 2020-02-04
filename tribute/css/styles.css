@@ -1,0 +1,32 @@
+#main {
+	margin: auto;
+	text-align: center;
+}
+#title {
+	margin: auto;
+	text-align: center;
+}
+#img {
+	width: 40%;
+	height: auto;
+}
+#tribute-info {
+	margin: auto;
+	width: 80%;
+}
+#title {
+	width: 80%;
+	height: auto;
+}
+img.coverimg {
+	width: 200px;
+}
+#booktable {
+	margin: auto;
+	background-color: lightgrey;
+	width: 400px;
+	padding: 10px;
+}
+td.booktitle {
+	font-weight: bold;
+}
